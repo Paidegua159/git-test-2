@@ -1,3 +1,3 @@
 # git-test-2
-test for progream
+test for program
 hello odin
